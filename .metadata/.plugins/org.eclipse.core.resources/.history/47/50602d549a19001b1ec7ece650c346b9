@@ -42,11 +42,11 @@ var= 4
 var= "string"
 
 varTwo= var
-print(varTwo)
+print=(varTwo)
 
 b = [a, varA, var]
 
-List = ("a", "b", "c") 
+list =("a", "b", "c") 
 
 print(list)
 print(list[0])

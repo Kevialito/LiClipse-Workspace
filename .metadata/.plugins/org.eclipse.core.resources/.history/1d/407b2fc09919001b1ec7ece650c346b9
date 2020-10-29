@@ -2,6 +2,10 @@
 This outline will help solidify concepts from the Variables lesson.
 Fill in this outline as the instructor goes through the lesson.
 '''
+from builtins import True
+from test.test_modulefinder import syntax_error_test
+
+#Integer
 
 a=4
 a=5
@@ -13,8 +17,8 @@ a=2.1
 
 #String
 
-a = "string"
-name = "Kevin"
+a = "string
+name = "Kevin
 
 #Boolean
 
@@ -42,11 +46,11 @@ var= 4
 var= "string"
 
 varTwo= var
-print(varTwo)
+print= (varTwo)
 
 b = [a, varA, var]
 
-List = ("a", "b", "c") 
+list = ("a", "b", "c") 
 
 print(list)
 print(list[0])
@@ -84,7 +88,7 @@ print(Kevin)
 
 Titles= "Kevin"
 
-print(Titles)
+print(titles)
 
 
 
