@@ -1,12 +1,23 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\My Documents\LiClipse Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\variables\com.python.pydev.analysis\v2_indexcache
+variablesOutlinesss|1603943671911101500|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+1=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
+2=variablesOutlinesss
 -- END DICTIONARY
 -- START TREE 1
-0
+8
+a|1|a!1^6#1*19@
+b|1|b!1^47#1*19@
+kev|1|Kevin!1^81#1*19@
+lis|2|List!1^49#1*19@listVar!1^54#1*19@
+nam|1|name!1^17#1*19@
+str|1|string!1^57#1*19@
+tit|1|Titles!1^85#1*19@
+var|5|varTwo!1^44#1*19@var!1^41#1*19@varA!1^34#1*19@vara!1^35#1*19@varThree!1^77#1*19@
 -- END TREE
 -- START TREE 2
 0
