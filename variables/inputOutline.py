@@ -3,14 +3,15 @@ This outline will help solidify concepts from the Variables lesson.
 Fill in this outline as the instructor goes through the lesson.
 '''
 
-#1) Get input from the user to the question "What is your favorite color?"
-#and store their answer in a variable called favColor.
+text_to_user = "what is your fav color?"
+userResponse = input (text_to_user)
+userResponse = input ("what is your name?")
+name = userResponse
+user = input ("what is your age")
+age = user
 
-
-
-#2) Make a variable called question and set it to "What is your name?". Then
-#get input from the user to the question and store their answer in a variable
-#called name.
+print (age)
+print (name)
 
 
 
