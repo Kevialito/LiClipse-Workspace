@@ -4,10 +4,6 @@ Created on Jan 7, 2021
 @author: ITAUser
 
 '''
-#wasah dud
-
-
-
 
 userResponse = input ("what is your name?")
 name = userResponse
