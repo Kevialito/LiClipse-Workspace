@@ -1,23 +1,60 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\My Documents\LiClipse Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\variables\com.python.pydev.analysis\v2_indexcache
+inputOutline|1610160891682179100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputOutline.py
+commentsOutline|1610162103926045600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
+debugCommentDrills|1610161800033529100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugCommentDrills.py
+mathOutline|1610165930719612600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
 variablesOutlinesss|1603943671911101500|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
+inputDrills|1610163170413140000|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
+commentDrills|1604455690327612200|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentDrills.py
+debugInputDrillsV1|1610163869053964100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
+debugVariableDrillsV1|1610159705587422600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugVariableDrillsV1.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
+14
+4=inputOutline
+14=commentsOutline
+12=mathOutline
+9=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
+10=inputDrills
+7=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugVariableDrillsV1.py
+3=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputOutline.py
+13=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
+5=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
 1=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
 2=variablesOutlinesss
+6=debugInputDrillsV1
+8=debugVariableDrillsV1
+11=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
 -- END DICTIONARY
 -- START TREE 1
-8
+25
 a|1|a!1^6#1*19@
+age|1|age!3^11#1*35@
 b|1|b!1^47#1*19@
+cir|2|circleArea!5^23#5*50@circleArea!7^57#5*66@
+e|0|
+fav|1|favColor!9^9#1*83@
+fir|0|
 kev|1|Kevin!1^81#1*19@
+las|0|
 lis|2|List!1^49#1*19@listVar!1^54#1*19@
-nam|1|name!1^17#1*19@
-str|1|string!1^57#1*19@
+mat|0|
+nam|2|name!3^9#1*35@name!1^17#1*19@
+num|0|
+q|0|
+rec|1|rectangleArea!5^45#5*50@
+shi|1|shippingAndTax!7^38#5*66@
+str|2|string!11^72#1*99@string!1^57#1*19@
+tex|1|text_to_user!3^6#1*35@
 tit|1|Titles!1^85#1*19@
-var|5|varTwo!1^44#1*19@var!1^41#1*19@varA!1^34#1*19@vara!1^35#1*19@varThree!1^77#1*19@
+use|2|user!3^10#1*35@userResponse!3^7#1*35@
+var|6|varTwo!1^44#1*19@var!1^41#1*19@var!13^17#1*115@varA!1^34#1*19@vara!1^35#1*19@varThree!1^77#1*19@
+vol|1|volumeCalculator!7^21#5*66@
+w|0|
+x|1|x!11^9#1*99@
+y|1|y!11^15#1*99@
 -- END TREE
 -- START TREE 2
 0
