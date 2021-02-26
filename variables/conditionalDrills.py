@@ -31,11 +31,30 @@ print("you cannot vote")
 #4)Make a string variable called answer, and set it to the letter a, b, c, or d.
 #Make an if/elif statement. If answer is a, b, or d, print "Wrong". Elif answer
 #is c, print "Correct".
+a=string
+string=("answer")
+
+    if("answer"=a)
+print("wrong")
+    elif("answer"=b)
+print("wrong")
+    elif("answer"=d)
+print("wrong")
+    elif("answer"=c)
+print("correct")
 
 
 
 #5)Make two boolean variables. Make an if/elif/else statement. If both booleans 
 #are true, print "Both". Elif only one of the booleans is true, print "Only 
 #one". Else, print "Neither".
-
-
+a=x
+b=y
+if(b,a == True)
+    print("both")
+elif(b==True)
+    print("only one")
+elif(a==True)
+    print("only one")
+else:
+    print("neither")
