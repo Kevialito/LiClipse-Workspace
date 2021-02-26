@@ -6,8 +6,10 @@ inputOutline|1610160891682179100|C:\Users\ITAUser\My Documents\LiClipse Workspac
 comparisonOperatorDrills|1610170071365491100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOperatorDrills.py
 debugCommentDrills|1610161800033529100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugCommentDrills.py
 mathOutline|1610165930719612600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
+conditionalDrills|1614313081133444900|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalDrills.py
 debugComparisonOperatorsV1|1610170910039533100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugComparisonOperatorsV1.py
 inputDrills|1610171260799830000|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
+conditionalOutline|1614311789654022300|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalOutline.py
 logicalOperatorDrills|1612413585808749500|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOperatorDrills.py
 mathematicalOperatorDrills|1610167279979604700|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathematicalOperatorDrills.py
 debugLogicalOperatorsDrillsV1|1612414514610399600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugLogicalOperatorsDrillsV1.py
@@ -20,94 +22,99 @@ debugVariableDrillsV1|1610159705587422600|C:\Users\ITAUser\My Documents\LiClipse
 comparisonOutline|1610168606432002600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
 -- END DISKCACHE
 -- START DICTIONARY
-30
-12=inputOutline
-28=commentsOutline
-21=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugVariableDrillsV1.py
-9=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOutline.py
-15=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugMathematicalOperatorsV2.py
-11=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputOutline.py
-27=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
-18=debugLogicalOperatorsDrillsV1
-19=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
-8=variablesOutlinesss
-23=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugComparisonOperatorsV1.py
+34
+14=inputOutline
+30=commentsOutline
+6=conditionalDrills
+23=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugVariableDrillsV1.py
+32=conditionalOutline
+11=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOutline.py
+17=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugMathematicalOperatorsV2.py
+13=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputOutline.py
+29=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
+20=debugLogicalOperatorsDrillsV1
+21=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
+10=variablesOutlinesss
+25=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugComparisonOperatorsV1.py
+31=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalOutline.py
 3=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOperatorDrills.py
-16=debugMathematicalOperatorsV2
-22=debugVariableDrillsV1
-30=comparisonOutline
-6=comparisonOperatorDrills
-17=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugLogicalOperatorsDrillsV1.py
-26=mathOutline
+18=debugMathematicalOperatorsV2
+24=debugVariableDrillsV1
+34=comparisonOutline
+8=comparisonOperatorDrills
+19=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugLogicalOperatorsDrillsV1.py
+28=mathOutline
 1=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathematicalOperatorDrills.py
-29=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
-24=debugComparisonOperatorsV1
-13=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
-14=inputDrills
+33=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
+26=debugComparisonOperatorsV1
+15=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
+16=inputDrills
 4=logicalOperatorDrills
 2=mathematicalOperatorDrills
-7=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
-20=debugInputDrillsV1
-10=logicalOutline
-5=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOperatorDrills.py
-25=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
+5=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalDrills.py
+9=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
+22=debugInputDrillsV1
+12=logicalOutline
+7=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOperatorDrills.py
+27=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
 -- END DICTIONARY
 -- START TREE 1
-55
-a|5|a!1^79#1*19@a!3^6#1*35@a!5^6#1*51@a!7^6#1*67@a!9^10#1*83@
-age|1|age!11^11#1*99@
-ans|1|ans!13^43#1*115@
-b|4|b!5^17#1*51@b!3^18#1*35@b!7^47#1*67@b!9^23#1*83@
-c|3|c!5^19#1*51@c!9^29#1*83@c!3^21#1*35@
-cal|1|calculations!15^23#5*130@
-che|1|checkWhoWins!17^25#5*146@
-cir|2|circleArea!19^23#5*162@circleArea!21^57#5*178@
-com|2|comparisonDrillTwo!23^43#5*194@comparisonDrill!23^24#5*194@
-d|3|d!3^23#1*35@d!1^89#1*19@d!5^21#1*51@
-e|3|e!1^41#1*19@e!3^26#1*35@e!5^23#1*51@
-f|3|f!5^25#1*51@f!1^92#1*19@f!3^29#1*35@
-fav|3|favNum!13^28#1*115@favAnimal!13^22#1*115@favColor!13^9#1*115@
+56
+a|6|a!1^79#1*19@a!3^6#1*35@a!5^25#1*51@a!7^6#1*67@a!9^6#1*83@a!11^10#1*99@
+age|1|age!13^11#1*115@
+ans|1|ans!15^43#1*131@
+b|4|b!7^17#1*67@b!3^18#1*35@b!9^47#1*83@b!11^23#1*99@
+c|3|c!7^19#1*67@c!11^29#1*99@c!3^21#1*35@
+cal|1|calculations!17^23#5*146@
+che|1|checkWhoWins!19^25#5*162@
+cir|2|circleArea!21^23#5*178@circleArea!23^57#5*194@
+com|2|comparisonDrillTwo!25^43#5*210@comparisonDrill!25^24#5*210@
+d|3|d!3^23#1*35@d!1^89#1*19@d!7^21#1*67@
+e|3|e!1^41#1*19@e!3^26#1*35@e!7^23#1*67@
+f|3|f!7^25#1*67@f!1^92#1*19@f!3^29#1*35@
+fav|3|favNum!15^28#1*131@favAnimal!15^22#1*131@favColor!15^9#1*131@
 fir|1|first!1^39#1*19@
-fiv|2|fivee!9^27#1*83@five!9^21#1*83@
-fou|1|four!9^16#1*83@
-g|3|g!5^27#1*51@g!1^95#1*19@g!3^32#1*35@
-h|3|h!3^35#1*35@h!5^29#1*51@h!1^102#1*19@
-i|3|i!1^64#1*19@i!3^38#1*35@i!5^31#1*51@
-ins|1|instructor!13^36#1*115@
-j|3|j!5^33#1*51@j!1^105#1*19@j!3^41#1*35@
-k|3|k!5^35#1*51@k!1^108#1*19@k!3^43#1*35@
-kev|1|Kevin!7^81#1*67@
-l|2|l!5^38#1*51@l!1^115#1*19@
+fiv|2|fivee!11^27#1*99@five!11^21#1*99@
+fix|0|
+fou|1|four!11^16#1*99@
+g|3|g!7^27#1*67@g!1^95#1*19@g!3^32#1*35@
+h|3|h!3^35#1*35@h!7^29#1*67@h!1^102#1*19@
+i|3|i!1^64#1*19@i!3^38#1*35@i!7^31#1*67@
+ins|1|instructor!15^36#1*131@
+j|3|j!7^33#1*67@j!1^105#1*19@j!3^41#1*35@
+k|3|k!7^35#1*67@k!1^108#1*19@k!3^43#1*35@
+kev|1|Kevin!9^81#1*83@
+l|2|l!7^38#1*67@l!1^115#1*19@
 las|1|Last!1^40#1*19@
-lis|3|List!7^49#1*67@listVar!7^54#1*67@list!15^39#1*131@
-m|1|m!5^40#1*51@
+lis|3|List!9^49#1*83@listVar!9^54#1*83@list!17^39#1*147@
+m|1|m!7^40#1*67@
 mat|1|math!1^23#1*19@
-n|1|n!5^43#1*51@
-nam|2|name!11^9#1*99@name!7^17#1*67@
+n|1|n!7^43#1*67@
+nam|2|name!13^9#1*115@name!9^17#1*83@
 num|1|num!1^8#1*19@
-o|2|o!5^46#1*51@o!1^67#1*19@
-one|1|one!9^8#1*83@
-p|2|p!1^76#1*19@p!5^47#1*51@
-q|2|q!1^26#1*19@q!5^48#1*51@
-r|2|r!1^48#1*19@r!5^52#1*51@
-rec|1|rectangleArea!19^45#5*162@
-s|2|s!5^53#1*51@s!1^82#1*19@
-sch|1|school!13^32#1*115@
-shi|2|shippingAndTax!23^63#5*194@shippingAndTax!21^38#5*178@
-six|2|sixx!9^28#1*83@six!9^22#1*83@
-str|3|string!25^72#1*211@string!1^33#1*19@string!7^57#1*67@
-t|2|t!1^51#1*19@t!5^54#1*51@
-tex|1|text_to_user!11^6#1*99@
-thr|1|three!9^15#1*83@
-tit|1|Titles!7^85#1*67@
-two|1|two!9^9#1*83@
+o|2|o!7^46#1*67@o!1^67#1*19@
+one|1|one!11^8#1*99@
+p|2|p!1^76#1*19@p!7^47#1*67@
+q|2|q!1^26#1*19@q!7^48#1*67@
+r|2|r!1^48#1*19@r!7^52#1*67@
+rec|1|rectangleArea!21^45#5*178@
+s|2|s!7^53#1*67@s!1^82#1*19@
+sch|1|school!15^32#1*131@
+shi|2|shippingAndTax!25^63#5*210@shippingAndTax!23^38#5*194@
+six|2|sixx!11^28#1*99@six!11^22#1*99@
+str|3|string!27^72#1*227@string!1^33#1*19@string!9^57#1*83@
+t|2|t!1^51#1*19@t!7^54#1*67@
+tex|1|text_to_user!13^6#1*115@
+thr|1|three!11^15#1*99@
+tit|1|Titles!9^85#1*83@
+two|1|two!11^9#1*99@
 u|1|u!1^61#1*19@
-use|2|user!11^10#1*99@userResponse!11^7#1*99@
-var|6|var!27^17#1*227@varTwo!7^44#1*67@varA!7^34#1*67@vara!7^35#1*67@varThree!7^77#1*67@var!7^41#1*67@
-vol|1|volumeCalculator!21^21#5*178@
+use|2|user!13^10#1*115@userResponse!13^7#1*115@
+var|6|var!29^17#1*243@varTwo!9^44#1*83@varA!9^34#1*83@vara!9^35#1*83@varThree!9^77#1*83@var!9^41#1*83@
+vol|1|volumeCalculator!23^21#5*194@
 w|1|w!1^29#1*19@
-x|3|x!25^9#1*211@x!29^16#1*243@x!1^121#1*19@
-y|3|y!1^54#1*19@y!25^15#1*211@y!29^9#1*243@
+x|5|x!5^9#1*51@x!27^9#1*227@x!31^9#1*259@x!33^16#1*275@x!1^121#1*19@
+y|4|y!1^54#1*19@y!31^15#1*259@y!27^15#1*227@y!33^9#1*275@
 z|1|z!1^118#1*19@
 -- END TREE
 -- START TREE 2
