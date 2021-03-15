@@ -6,13 +6,14 @@ inputOutline|1610160891682179100|C:\Users\ITAUser\My Documents\LiClipse Workspac
 comparisonOperatorDrills|1610170071365491100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOperatorDrills.py
 debugCommentDrills|1610161800033529100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugCommentDrills.py
 mathOutline|1610165930719612600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
-conditionalDrills|1614313081133444900|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalDrills.py
+conditionalDrills|1614314651268369900|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalDrills.py
 debugComparisonOperatorsV1|1610170910039533100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugComparisonOperatorsV1.py
 inputDrills|1610171260799830000|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
 conditionalOutline|1614311789654022300|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalOutline.py
 logicalOperatorDrills|1612413585808749500|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOperatorDrills.py
 mathematicalOperatorDrills|1610167279979604700|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathematicalOperatorDrills.py
 debugLogicalOperatorsDrillsV1|1612414514610399600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugLogicalOperatorsDrillsV1.py
+debugConditionalsV1|1614313905769270400|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugConditionalsV1.py
 variablesOutlinesss|1603943671911101500|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\variablesOutlinesss.py
 commentDrills|1604455690327612200|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentDrills.py
 debugInputDrillsV1|1610163869053964100|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
@@ -22,30 +23,32 @@ debugVariableDrillsV1|1610159705587422600|C:\Users\ITAUser\My Documents\LiClipse
 comparisonOutline|1610168606432002600|C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
 -- END DISKCACHE
 -- START DICTIONARY
-34
+36
 14=inputOutline
-30=commentsOutline
+32=commentsOutline
 6=conditionalDrills
 23=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugVariableDrillsV1.py
-32=conditionalOutline
+34=conditionalOutline
 11=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOutline.py
 17=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugMathematicalOperatorsV2.py
 13=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputOutline.py
-29=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
+31=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\commentsOutline.py
 20=debugLogicalOperatorsDrillsV1
+28=debugConditionalsV1
+27=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugConditionalsV1.py
 21=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugInputDrillsV1.py
 10=variablesOutlinesss
 25=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugComparisonOperatorsV1.py
-31=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalOutline.py
+33=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\conditionalOutline.py
 3=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\logicalOperatorDrills.py
 18=debugMathematicalOperatorsV2
 24=debugVariableDrillsV1
-34=comparisonOutline
+36=comparisonOutline
 8=comparisonOperatorDrills
 19=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\debugLogicalOperatorsDrillsV1.py
-28=mathOutline
+30=mathOutline
 1=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathematicalOperatorDrills.py
-33=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
+35=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOutline.py
 26=debugComparisonOperatorsV1
 15=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\inputDrills.py
 16=inputDrills
@@ -56,14 +59,14 @@ comparisonOutline|1610168606432002600|C:\Users\ITAUser\My Documents\LiClipse Wor
 22=debugInputDrillsV1
 12=logicalOutline
 7=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\comparisonOperatorDrills.py
-27=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
+29=C:\Users\ITAUser\My Documents\LiClipse Workspace\variables\mathOutline.py
 -- END DICTIONARY
 -- START TREE 1
 56
 a|6|a!1^79#1*19@a!3^6#1*35@a!5^25#1*51@a!7^6#1*67@a!9^6#1*83@a!11^10#1*99@
 age|1|age!13^11#1*115@
 ans|1|ans!15^43#1*131@
-b|4|b!7^17#1*67@b!3^18#1*35@b!9^47#1*83@b!11^23#1*99@
+b|5|b!7^17#1*67@b!5^52#1*51@b!3^18#1*35@b!9^47#1*83@b!11^23#1*99@
 c|3|c!7^19#1*67@c!11^29#1*99@c!3^21#1*35@
 cal|1|calculations!17^23#5*146@
 che|1|checkWhoWins!19^25#5*162@
@@ -75,7 +78,7 @@ f|3|f!7^25#1*67@f!1^92#1*19@f!3^29#1*35@
 fav|3|favNum!15^28#1*131@favAnimal!15^22#1*131@favColor!15^9#1*131@
 fir|1|first!1^39#1*19@
 fiv|2|fivee!11^27#1*99@five!11^21#1*99@
-fix|0|
+fix|1|fixMyCar!27^41#5*226@
 fou|1|four!11^16#1*99@
 g|3|g!7^27#1*67@g!1^95#1*19@g!3^32#1*35@
 h|3|h!3^35#1*35@h!7^29#1*67@h!1^102#1*19@
@@ -102,7 +105,7 @@ s|2|s!7^53#1*67@s!1^82#1*19@
 sch|1|school!15^32#1*131@
 shi|2|shippingAndTax!25^63#5*210@shippingAndTax!23^38#5*194@
 six|2|sixx!11^28#1*99@six!11^22#1*99@
-str|3|string!27^72#1*227@string!1^33#1*19@string!9^57#1*83@
+str|4|string!1^33#1*19@string!29^72#1*243@string!5^35#1*51@string!9^57#1*83@
 t|2|t!1^51#1*19@t!7^54#1*67@
 tex|1|text_to_user!13^6#1*115@
 thr|1|three!11^15#1*99@
@@ -110,11 +113,11 @@ tit|1|Titles!9^85#1*83@
 two|1|two!11^9#1*99@
 u|1|u!1^61#1*19@
 use|2|user!13^10#1*115@userResponse!13^7#1*115@
-var|6|var!29^17#1*243@varTwo!9^44#1*83@varA!9^34#1*83@vara!9^35#1*83@varThree!9^77#1*83@var!9^41#1*83@
+var|6|var!31^17#1*259@varTwo!9^44#1*83@varA!9^34#1*83@vara!9^35#1*83@varThree!9^77#1*83@var!9^41#1*83@
 vol|1|volumeCalculator!23^21#5*194@
 w|1|w!1^29#1*19@
-x|5|x!5^9#1*51@x!27^9#1*227@x!31^9#1*259@x!33^16#1*275@x!1^121#1*19@
-y|4|y!1^54#1*19@y!31^15#1*259@y!27^15#1*227@y!33^9#1*275@
+x|5|x!5^9#1*51@x!29^9#1*243@x!33^9#1*275@x!35^16#1*291@x!1^121#1*19@
+y|4|y!1^54#1*19@y!33^15#1*275@y!29^15#1*243@y!35^9#1*291@
 z|1|z!1^118#1*19@
 -- END TREE
 -- START TREE 2
