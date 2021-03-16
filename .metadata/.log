@@ -2454,3 +2454,93 @@ java.io.FileNotFoundException: C:\Program Files\Brainwy\LiClipse 7.0.0\plugins\c
 	at org.brainwy.liclipsetext.shared_core.io.FileUtils.writeBytesToFile(FileUtils.java:140)
 	at org.brainwy.liclipsetext.shared_core.io.FileUtils.writeStrToFile(FileUtils.java:133)
 	at com.brainwy.liclipse.editor.lic.CheckRegistered.run(CheckRegistered.java:146)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-03-15 18:08:06.847
+!MESSAGE ERROR reading shell. Message sent: @@CHANGE_PYTHONPATH:C%3A%5CUsers%5CITAUser%5CAppData%5CLocal%5CPrograms%5CPython%5CPython39%5CDLLs%7CC%3A%5CUsers%5CITAUser%5CAppData%5CLocal%5CPrograms%5CPython%5CPython39%5Clib%7CC%3A%5CUsers%5CITAUser%5CAppData%5CLocal%5CPrograms%5CPython%5CPython39%7CC%3A%5CUsers%5CITAUser%5CAppData%5CLocal%5CPrograms%5CPython%5CPython39%5Clib%5Csite-packages
+END@@
+
+ProcessInfo:
+
+ - Executed: C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\python.exe -u C:\Program Files\Brainwy\LiClipse 7.0.0\plugins\org.python.pydev.core_8.0.0.202009061243\pysrc\pycompletionserver.py 50166
+
+ - Environment:
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\ITAUser\AppData\Roaming
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=WIN-8915VJ2
+COMSPEC=C:\windows\system32\cmd.exe
+HOMEDRIVE=C:
+HOMEPATH=\Users\ITAUser
+LOCALAPPDATA=C:\Users\ITAUser\AppData\Local
+LOGONSERVER=\\WIN-8915VJ2
+NUMBER_OF_PROCESSORS=4
+ONEDRIVE=C:\Users\ITAUser\OneDrive
+ONEDRIVECONSUMER=C:\Users\ITAUser\OneDrive
+OS=Windows_NT
+PATH=C:/Program Files/Brainwy/LiClipse 7.0.0/jre/bin/client;C:/Program Files/Brainwy/LiClipse 7.0.0/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\;C:\Users\ITAUser\AppData\Local\Microsoft\WindowsApps;C:\Users\ITAUser\AppData\Local\GitHubDesktop\bin;C:\Program Files\Brainwy\LiClipse 7.0.0;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3d04
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMFILES=C:\Program Files
+PROGRAMW6432=C:\Program Files
+PROMPT=$P$G
+PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+PYTHONPATH=C:\Program Files\Brainwy\LiClipse 7.0.0\plugins\org.python.pydev.core_8.0.0.202009061243\pysrc\pydev_sitecustomize;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\DLLs;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\lib;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39;C:\Users\ITAUser\AppData\Local\Programs\Python\Python39\lib\site-packages
+SESSIONNAME=Console
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\windows
+TEMP=C:\Users\ITAUser\AppData\Local\Temp
+TMP=C:\Users\ITAUser\AppData\Local\Temp
+USERDOMAIN=WIN-8915VJ2
+USERDOMAIN_ROAMINGPROFILE=WIN-8915VJ2
+USERNAME=ITAUser
+USERPROFILE=C:\Users\ITAUser
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+WINDIR=C:\windows
+
+ - Working Dir:
+C:\Program Files\Brainwy\LiClipse 7.0.0\plugins\org.python.pydev.core_8.0.0.202009061243\pysrc
+
+ - OS:
+Windows 10
+
+ - Std output:
+
+
+ - Err output:
+
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at java.base/sun.nio.ch.SocketChannelImpl.endRead(Unknown Source)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingRead(Unknown Source)
+	at java.base/sun.nio.ch.SocketAdaptor$1.read(Unknown Source)
+	at java.base/java.io.InputStream.read(Unknown Source)
+	at org.python.pydev.ast.codecompletion.shell.AbstractShell.read(AbstractShell.java:456)
+	at org.python.pydev.ast.codecompletion.shell.AbstractShell.read(AbstractShell.java:514)
+	at org.python.pydev.ast.codecompletion.shell.AbstractShell.writeAndGetResults(AbstractShell.java:709)
+	at org.python.pydev.ast.codecompletion.shell.AbstractShell.writeAndGetResults(AbstractShell.java:701)
+	at org.python.pydev.ast.codecompletion.shell.CompletionsShell.internalChangePythonPath(CompletionsShell.java:44)
+	at org.python.pydev.ast.codecompletion.shell.CompletionsShell.getLineCol(CompletionsShell.java:82)
+	at org.python.pydev.ast.codecompletion.revisited.modules.CompiledModule.findDefinition(CompiledModule.java:613)
+	at org.python.pydev.ast.codecompletion.revisited.modules.CompiledModule.findDefinition(CompiledModule.java:1)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.internalFindGlobalTokDef(SourceModule.java:1336)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.findGlobalTokDef(SourceModule.java:1188)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.findDefinitionsFromModAndTok(SourceModule.java:1130)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:1112)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:764)
+	at org.python.pydev.ast.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:1)
+	at org.python.pydev.ast.refactoring.PyRefactoringFindDefinition.findActualDefinition(PyRefactoringFindDefinition.java:185)
+	at org.python.pydev.ast.refactoring.PyRefactoringFindDefinition.findActualDefinition(PyRefactoringFindDefinition.java:84)
+	at org.python.pydev.editor.hover.PyDocstringTextHover.getDocstringHover(PyDocstringTextHover.java:101)
+	at org.python.pydev.editor.hover.PyDocstringTextHover.getHoverInfo(PyDocstringTextHover.java:59)
+	at org.python.pydev.editor.hover.PydevCombiningHover.getHoverInfo(PydevCombiningHover.java:141)
+	at org.python.pydev.editor.hover.PyEditorTextHoverProxy.getHoverInfo(PyEditorTextHoverProxy.java:59)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:157)
